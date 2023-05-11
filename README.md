@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### I am a ML enthusiast, currently pursuing Full Stack Data Science course on Ineuron 
+#### I am 6 star problem solver at HackerRank and 5 star in python
+
+
 <!--
 **Abhishekkaddipudi/Abhishekkaddipudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
