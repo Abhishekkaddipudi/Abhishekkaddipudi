@@ -1,10 +1,26 @@
 ### Hi there 👋
 
-#### I am a ML enthusiast, currently pursuing Full Stack Data Science course on Ineuron 
-#### I am 6 star problem solver at HackerRank and 5 star in python
-#### Currently working on Building ML projects any suggestion would be awesome reach me out through [mail](mailto:abhishekkaddipudi123@gmail.com).
-#### I am BCA Graduate (2021) 
-#### 
+#### Welcome to the GitHub profile of Abhishek Kaddipudi, a passionate programmer and ML enthusiast. 
+#### With a strong foundation in Python Programming. 
+#### I am developing my expertise in machine learning, data analysis, and software development. 
+#### I am constantly seeking new challenges and exploring cutting-edge technologies to improve my skills. 
+#### In addition to programming, I enjoy reading books, watching anime(huge fan of one piece BTW), which fuels my creativity and keeps me motivated.
+
+### Some info about my BG:
+#### I am BCA Graduate(2021), currently a ML enthusiast and pursuing Full Stack Data science course on Ineuron
+#### I am 5 star python programmer and 6 star problem solver on HackerRank
+
+### MY tech stacks:
+
+#### Python advanced
+#### Git
+#### Sklearn
+#### TensorFlow,Keras,pytorch
+#### Foundational Web Dev (html,css,javascript)
+#### Flutter app dev
+#### MangoDb 
+#### Tkinter(python)
+#### SQL
 
 
 
