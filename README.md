@@ -3,7 +3,7 @@
 #### Welcome to the GitHub profile of Abhishek Kaddipudi, a passionate programmer and ML enthusiast. 
 #### With a strong foundation in Python Programming. 
 #### I am developing my expertise in machine learning, data analysis, and software development. 
-#### I am constantly seeking new challenges and exploring cutting-edge technologies to improve my skills. 
+#### I am constantly seeking new challenges and exploring cutting-edge technologies to improve my skills and determined to be at the forefront of groundbreaking advancements, leveraging technology to create meaningful solutions.
 #### In addition to programming, I enjoy reading books, watching anime(huge fan of one piece BTW), which fuels my creativity and keeps me motivated.
 
 ## Some info about my BG:
@@ -48,7 +48,9 @@
 [![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/MailID-lightgrey?style=for-the-badge&logo=Gmail)](mailto:abhishekkaddipudi123@gmail.com)
 [![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abhishek-kaddipudi-0b5183253/)
 
-<details>
+<Details>
+  <summary><b>DETAILS ABOUT MY REPO</b></summary>
+  <br>
 <p align="center">
   <a href="https://github.com/Abhishekkaddipudi">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekkaddipudi&theme=aura" />
@@ -66,7 +68,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekkaddipudi&theme=aura&utcOffset=8" />
   </a>
 </p>
-</details>
+</Details>
 
 <p align="center">
   <a href="https://github.com/Abhishekkaddipudi">
@@ -74,6 +76,8 @@
   </a>
 </p>
 
+
+<p align="center" ><b> Thank you for taking the time to View my profile.</b></p>
 <!--
 **Abhishekkaddipudi/Abhishekkaddipudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
