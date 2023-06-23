@@ -46,6 +46,7 @@
 
 ### Contact
 [![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/MailID-lightgrey?style=for-the-badge&logo=Gmail)](mailto:abhishekkaddipudi123@gmail.com)
+[![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abhishek-kaddipudi-0b5183253/)
 
 <details>
 <p align="center">
