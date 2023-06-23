@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-#### Welcome to the GitHub profile of Abhishek Kaddipudi, a passionate programmer and ML enthusiast. 
-#### With a strong foundation in Python Programming. 
+#### Welcome to the GitHub profile of Abhishek Kaddipudi, a passionate programmer and ML enthusiast.With a strong foundation in Python Programming. 
 #### I am developing my expertise in machine learning, data analysis, and software development. 
 #### I am constantly seeking new challenges and exploring cutting-edge technologies to improve my skills and determined to be at the forefront of groundbreaking advancements, leveraging technology to create meaningful solutions.
 #### In addition to programming, I enjoy reading books, watching anime(huge fan of one piece BTW), which fuels my creativity and keeps me motivated.
