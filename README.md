@@ -1,3 +1,13 @@
+![Web_Photo_Editor](https://github.com/Abhishekkaddipudi/Abhishekkaddipudi/assets/65544284/1b8ce695-c360-480b-80d0-9357ac8a8e84)
+[![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/MailID-lightgrey?style=for-the-badge&logo=Gmail)](mailto:abhishekkaddipudi123@gmail.com)
+[![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abhishek-kaddipudi-0b5183253/)
+<p align="left">
+  <a href="https://github.com/Abhishekkaddipudi">
+    <img src="https://komarev.com/ghpvc/?username=abhishekkaddipudi&color=blue&style=flat)" />
+  </a>
+</p>
+
+
 ## Hi there 👋
 
 #### Welcome to the GitHub profile of Abhishek Kaddipudi, a passionate programmer and ML enthusiast.
@@ -43,9 +53,6 @@
 [![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau)](https://github.com/Abhishekkaddipudi)
 [![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=MicrosoftExcel)](https://github.com/Abhishekkaddipudi)
 
-### Contact
-[![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/MailID-lightgrey?style=for-the-badge&logo=Gmail)](mailto:abhishekkaddipudi123@gmail.com)
-[![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abhishek-kaddipudi-0b5183253/)
 <Details>
   <summary><b>Data Science Repos</b></summary>
 <p align ="left">
@@ -112,11 +119,6 @@
 </p>
 </Details>
 
-<p align="center">
-  <a href="https://github.com/Abhishekkaddipudi">
-    <img src="https://komarev.com/ghpvc/?username=abhishekkaddipudi&color=blue&style=flat)" />
-  </a>
-</p>
 
 
 <p align="center" ><b> Thank you for taking the time to View my profile.</b></p>
