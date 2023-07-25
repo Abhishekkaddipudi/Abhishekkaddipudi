@@ -46,7 +46,31 @@
 ### Contact
 [![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/MailID-lightgrey?style=for-the-badge&logo=Gmail)](mailto:abhishekkaddipudi123@gmail.com)
 [![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abhishek-kaddipudi-0b5183253/)
-
+<Details>
+  <summary><b>Data Science Repos</b></summary>
+<p align ="left">
+<a href="https://github.com/Abhishekkaddipudi/M_L_Models" target="_blank">
+  ML Models from scratch
+</a>
+  <br>
+<a href="https://github.com/Abhishekkaddipudi/modelLab" target="_blank">
+  ModelLab
+</a>
+  <br>
+<Details>
+  <summary><b>Virtual Internships</b></summary>
+<p align ="left">
+<a href="https://github.com/Abhishekkaddipudi/InternshipStudio_internship" target="_blank">
+  Internship Studio
+</a>
+  <br>
+<a href="https://github.com/Abhishekkaddipudi/Cognizant_Artificial_Intelligence" target="_blank">
+  Cognizant A.I via forage
+</a>
+</p>
+</Details>
+</p>
+</Details>
 <Details>
   <summary><b>DETAILS ABOUT MY REPO</b></summary>
   <br>
