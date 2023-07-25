@@ -72,6 +72,25 @@
 </p>
 </Details>
 <Details>
+  <summary><b>Data Analysis repos</b></summary>
+<p align ="left">
+<a href="https://github.com/Abhishekkaddipudi/Watsapp_chat_analysis" target="_blank">
+  Whatsapp Chat analysis
+</a>
+  <br>
+
+<Details>
+  <summary><b>Virtual Internships</b></summary>
+
+
+<a href="https://github.com/Abhishekkaddipudi/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights" target="_blank">
+  Tata Data visualization via forage
+</a>
+</p>
+</Details>
+</p>
+</Details>
+<Details>
   <summary><b>DETAILS ABOUT MY REPO</b></summary>
   <br>
 <p align="center">
