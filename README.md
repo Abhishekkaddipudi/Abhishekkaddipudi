@@ -64,6 +64,9 @@
   ModelLab
 </a>
   <br>
+  <a href="https://github.com/Abhishekkaddipudi/Credit_score" target="_blank">
+  Credit Score Classifier
+</a>
 <Details>
   <summary><b>Virtual Internships</b></summary>
 <p align ="left">
