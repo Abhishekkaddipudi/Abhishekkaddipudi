@@ -1,7 +1,9 @@
-![Web_Photo_Editor](https://github.com/Abhishekkaddipudi/Abhishekkaddipudi/assets/65544284/1b8ce695-c360-480b-80d0-9357ac8a8e84)
+
+![Hello, my name is Abhishek  Nice to meet you (2)](https://github.com/Abhishekkaddipudi/Abhishekkaddipudi/assets/65544284/bb9249d3-60be-438d-b75b-3df6ddf37ede)
+
+
 [![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/MailID-lightgrey?style=for-the-badge&logo=Gmail)](mailto:abhishekkaddipudi123@gmail.com)
 [![abhishekkaddipudi123@gmail.com](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abhishek-kaddipudi-0b5183253/)
-
 <p align="left">
   <a href="https://github.com/Abhishekkaddipudi">
     <img src="https://komarev.com/ghpvc/?username=abhishekkaddipudi&color=blue&style=flat" />
