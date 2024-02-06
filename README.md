@@ -31,7 +31,7 @@
 ## My Tech Stack:
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Abhishekkaddipudi)
-[![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Abhishekkaddipudi)
+[![MySQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Abhishekkaddipudi)
 [![DART](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://github.com/Abhishekkaddipudi)
 
 ### ML Libraries
