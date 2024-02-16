@@ -27,10 +27,6 @@ I'm a ![age](https://age-1pne.onrender.com/year?year=2000)-year-old data enthusi
 - Python - Data analysis, machine learning projects, and automation scripts.
 - PowerBI - Creating interactive dashboards and reports for data visualization.
 
-### Strengths
-- Hard-working: I dedicate myself fully to achieve my tasks and goals.
-- Quick Learner: I adapt and learn new technologies and methodologies swiftly.
-  
 ## Courses
 - [Full Stack Data Science 2.0 - Completed](https://learn.ineuron.ai/certificate/3c1d1fd9-71b7-4410-8584-7d60102de20c)
 - [Google Data Analytics - Completed](https://www.coursera.org/account/accomplishments/professional-cert/HLFAQHJJGBAG)
