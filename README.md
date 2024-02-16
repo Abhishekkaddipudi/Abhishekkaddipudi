@@ -18,7 +18,7 @@
 #### I am constantly seeking new challenges and exploring cutting-edge technologies to improve my skills and determined to be at the forefront of groundbreaking advancements, leveraging technology to create meaningful solutions.
 
 
-## About Me
+## Some of my BG
 I'm a ![age](https://age-1pne.onrender.com/year?year=2000)-year-old data enthusiast. I've completed my Bachelor of Computer Applications (BCA) from Karnataka University, Dharwad. Passionate about data science and analytics, I've further honed my skills by completing courses from iNeuron and a Google Data Analytics certification from Coursera.
 
 ### Skills
