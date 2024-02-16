@@ -70,8 +70,6 @@ I'm a ![age](https://age-1pne.onrender.com/year?year=2000)-year-old data enthusi
 | **Data Science Repos**  | [ML Models from scratch](https://github.com/Abhishekkaddipudi/M_L_Models)                             | ML Models built from scratch.        |
 |                         | [ModelLab](https://github.com/Abhishekkaddipudi/modelLab)                                             | A collection of various ML models.   |
 |                         | [Credit Score Classifier](https://github.com/Abhishekkaddipudi/Credit_score)                          | Classifier for credit scoring.       |
-| **Virtual Internships** | [Internship Studio](https://github.com/Abhishekkaddipudi/InternshipStudio_internship)                 | Internship Studio project.           |
-|                         | [Cognizant A.I via forage](https://github.com/Abhishekkaddipudi/Cognizant_Artificial_Intelligence)    | Cognizant Artificial Intelligence.   |
 | **Data Analysis Repos** | [Whatsapp Chat analysis](https://github.com/Abhishekkaddipudi/Watsapp_chat_analysis)                  | Analysis of Whatsapp chat data.      |
 |                         | [Bank Loan Data Analysis](https://github.com/Abhishekkaddipudi/Bank_Loan_Data_Analysis)               | Analysis of bank loan data.          |
 |                         | [Ecommerce Sales Analysis](https://github.com/Abhishekkaddipudi/Ecommerce_Sales_Analysis)            | Sales analysis for an e-commerce.    |
@@ -79,7 +77,10 @@ I'm a ![age](https://age-1pne.onrender.com/year?year=2000)-year-old data enthusi
 |                         | [IPL-2008-2022 Data Analysis](https://github.com/Abhishekkaddipudi/IPL-2008-2022-Data-Analysis)       | Analysis of IPL data from 2008-2022. |
 |                         | [Pizza Sales Data Analysis](https://github.com/Abhishekkaddipudi/Pizza-Sales-Data-Analysis)           | Analysis of pizza sales data.        |
 |                         | [Hospital Wait Time Analysis](https://github.com/Abhishekkaddipudi/Hospital-Wait-Time-Analysis)       | Analysis of hospital wait times.     |
-| **Virtual Internships** | [Tata Data Visualisation](https://github.com/Abhishekkaddipudi/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights) | Tata Data visualization project via forage. |
+| **Virtual Internships** | [Internship Studio](https://github.com/Abhishekkaddipudi/InternshipStudio_internship)                 | Internship Studio project.           |
+|                         | [Cognizant A.I via forage](https://github.com/Abhishekkaddipudi/Cognizant_Artificial_Intelligence)    | Cognizant Artificial Intelligence.   |
+|                         | [Tata Data Visualisation](https://github.com/Abhishekkaddipudi/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights) | Tata Data visualization project via forage. |
+
 
 
 ## 🌟 DETAILS ABOUT MY REPO 🌟
