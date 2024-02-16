@@ -26,7 +26,10 @@ I'm a ![age](https://age-1pne.onrender.com/year?year=2000)-year-old data enthusi
 - Excel - Advanced data manipulation, analysis, and visualization.
 - Python - Data analysis, machine learning projects, and automation scripts.
 - PowerBI - Creating interactive dashboards and reports for data visualization.
-- Machine Learning - For conducting statistical analysis
+- Machine Learning - For conducting statistical analysis.
+- Flask -  For creating web-based interfaces, APIs, and interactive dashboards.
+- Docker - To develop and ship the code easily, in the form of containers.
+- Git - Version control system.
 
 ## Courses
 - [Full Stack Data Science 2.0 - Completed](https://learn.ineuron.ai/certificate/3c1d1fd9-71b7-4410-8584-7d60102de20c)
