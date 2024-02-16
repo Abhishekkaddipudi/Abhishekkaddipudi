@@ -81,18 +81,18 @@
 <div align="center" width=100%>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;" width=100%>
     <a href="https://github.com/Abhishekkaddipudi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekkaddipudi&theme=aura" alt="Repositories per Language" width=50% >
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekkaddipudi&theme=aura" alt="Repositories per Language" width=49% >
     </a>
     <a href="https://github.com/Abhishekkaddipudi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekkaddipudi&theme=aura" alt="Most Commit Language"  width=50%>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekkaddipudi&theme=aura" alt="Most Commit Language"  width=49%>
     </a>
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;" width=100%>
     <a href="https://github.com/Abhishekkaddipudi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekkaddipudi&theme=aura" alt="GitHub Stats"  width=50%>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekkaddipudi&theme=aura" alt="GitHub Stats"  width=49%>
     </a>
     <a href="https://github.com/Abhishekkaddipudi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekkaddipudi&theme=aura&utcOffset=8" alt="Productive Time" width=50%>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekkaddipudi&theme=aura&utcOffset=8" alt="Productive Time" width=49%>
     </a>
   </div>
 </div>
