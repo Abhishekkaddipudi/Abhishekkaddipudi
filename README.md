@@ -18,8 +18,19 @@
 #### I am constantly seeking new challenges and exploring cutting-edge technologies to improve my skills and determined to be at the forefront of groundbreaking advancements, leveraging technology to create meaningful solutions.
 
 
-## Some info about my BG:
-#### I am BCA Graduate(2021)
+## About Me
+I'm a ![age](https://age-1pne.onrender.com/year?year=2000)-year-old data enthusiast. I've completed my Bachelor of Computer Applications (BCA) from Karnataka University, Dharwad. Passionate about data science and analytics, I've further honed my skills by completing courses from iNeuron and a Google Data Analytics certification from Coursera.
+
+### Skills
+- SQL - For database management and complex queries.
+- Excel - Advanced data manipulation, analysis, and visualization.
+- Python - Data analysis, machine learning projects, and automation scripts.
+- PowerBI - Creating interactive dashboards and reports for data visualization.
+
+### Strengths
+- Hard-working: I dedicate myself fully to achieve my tasks and goals.
+- Quick Learner: I adapt and learn new technologies and methodologies swiftly.
+  
 ## Courses
 - [Full Stack Data Science 2.0 - Completed](https://learn.ineuron.ai/certificate/3c1d1fd9-71b7-4410-8584-7d60102de20c)
 - [Google Data Analytics - Completed](https://www.coursera.org/account/accomplishments/professional-cert/HLFAQHJJGBAG)
