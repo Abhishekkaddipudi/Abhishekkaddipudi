@@ -19,7 +19,7 @@
 
 
 ## Some of my BG
-I'm a ![age](https://age-1pne.onrender.com/year?year=2000)-year-old data enthusiast. I've completed my Bachelor of Computer Applications (BCA) from Karnataka University, Dharwad. Passionate about data science and analytics, I've further honed my skills by completing courses from iNeuron and a Google Data Analytics certification from Coursera.
+I'm a 25-year-old data enthusiast. I've completed my Bachelor of Computer Applications (BCA) from Karnataka University, Dharwad. Passionate about data science and analytics, I've further honed my skills by completing courses from iNeuron and a Google Data Analytics certification from Coursera.
 
 ### Skills
 - SQL - For database management and complex queries.
