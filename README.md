@@ -39,7 +39,7 @@ I'm a 25-year-old data enthusiast. I've completed my Bachelor of Computer Applic
 
 
 ## Portfolio link
-[Link To My Portfolio](https://www.datascienceportfol.io/Abhishek_Kaddipudi)
+[Link To My Portfolio](https://portfolio-sba9.onrender.com/)
 
 ## My Tech Stack:
 ### Languages
