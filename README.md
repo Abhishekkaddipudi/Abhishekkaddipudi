@@ -34,7 +34,7 @@ I'm a 26-year-old data enthusiast with a Bachelor of Computer Applications (BCA)
 
 ## Courses
 - [Google Data Analytics - Completed](https://www.coursera.org/account/accomplishments/professional-cert/HLFAQHJJGBAG)
-- [Codebasics Data Analyst bootcamp - Ongoing]([https://codebasics.io/](https://codebasics.io/certificate/CB-49-145042))
+- [Codebasics Data Analyst bootcamp - Ongoing]((https://codebasics.io/certificate/CB-49-145042))
 
 
 
