@@ -19,7 +19,8 @@
 
 
 ## Some of my BG
-I'm a 26-year-old data enthusiast. I've completed my Bachelor of Computer Applications (BCA) from Karnataka University, Dharwad. Passionate about data science and analytics, I've further honed my skills by completing courses from iNeuron and a Google Data Analytics certification from Coursera.
+I'm a 26-year-old data enthusiast with a Bachelor of Computer Applications (BCA) from Karnataka University, Dharwad, and a Master of Computer Applications (online mode) from Chandigarh University. Passionate about data science and analytics, I've further developed my skills through the Codebasics Data Analyst course and the Google Data Analytics Professional Certificate from Coursera.
+
 
 ### Skills
 - SQL - For database management and complex queries.
