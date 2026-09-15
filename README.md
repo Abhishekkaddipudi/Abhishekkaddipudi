@@ -33,9 +33,8 @@ I'm a 26-year-old data enthusiast with a Bachelor of Computer Applications (BCA)
 - Git - Version control system.
 
 ## Courses
-- [Full Stack Data Science 2.0 - Completed](https://learn.ineuron.ai/certificate/3c1d1fd9-71b7-4410-8584-7d60102de20c)
 - [Google Data Analytics - Completed](https://www.coursera.org/account/accomplishments/professional-cert/HLFAQHJJGBAG)
-- [Codebasics Data Analyst bootcamp - Ongoing](https://codebasics.io/)
+- [Codebasics Data Analyst bootcamp - Ongoing]([https://codebasics.io/](https://codebasics.io/certificate/CB-49-145042))
 
 
 
